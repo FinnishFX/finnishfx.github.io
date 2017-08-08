@@ -5,7 +5,7 @@
       "platform": "kabam.com,kongregate,steam,rotmg",
       "startTime": 1483228800000,
       "title": "New update is live!",
-      "image": "https://nitsravoki.github.io/tfr/1.0.X5.1/UpdateNews.png",
+      "image": "https://finnishfx.github.io/tfr/1.0.X5.1/UpdateNews.png",
       "endTime": 2006729600000,
       "linkDetail": "",
       "priority": 2000
@@ -16,7 +16,7 @@
       "platform": "kabam.com,kongregate,steam,rotmg",
       "startTime": 1483228800000,
       "title": "Update Pack",
-      "image": "https://nitsravoki.github.io/tfr/1.0.X5.1/Reward.png",
+      "image": "https://finnishfx.github.io/tfr/1.0.X5.1/Reward.png",
       "endTime": 4080326400000,
       "linkDetail": "702",
       "priority": 2001
@@ -27,7 +27,7 @@
       "platform": "kabam.com,kongregate,steam,rotmg",
       "startTime": 1483228800000,
       "title": "Join us!",
-      "image": "https://nitsravoki.github.io/tfr/static/DiscordBanner.png",
+      "image": "https://finnishfx.github.io/tfr/static/DiscordBanner.png",
       "endTime": 4080326400000,
       "linkDetail": "https://discord.gg/heuxfeV",
       "priority": 2002
