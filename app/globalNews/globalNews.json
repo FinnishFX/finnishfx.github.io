@@ -5,18 +5,18 @@
       "platform": "kabam.com,kongregate,steam,rotmg",
       "startTime": 1483228800000,
       "title": "New update is live!",
-      "image": "https://finnishfx.github.io/tfr/1.1/UpdateNews.png",
+      "image": "https://finnishfx.github.io/tfr/1.2/UpdateNews.png",
       "endTime": 2006729600000,
       "linkDetail": "",
       "priority": 2000
    },
    {
       "slot": 2,
-      "linkType": 2,
+      "linkType": 0,
       "platform": "kabam.com,kongregate,steam,rotmg",
       "startTime": 1483228800000,
       "title": "Update Pack",
-      "image": "https://finnishfx.github.io/tfr/1.0.X5.1/Reward.png",
+      "image": "https://finnishfx.github.io/tfr/1.2/UpdateTeaser.png",
       "endTime": 4080326400000,
       "linkDetail": "702",
       "priority": 2001
