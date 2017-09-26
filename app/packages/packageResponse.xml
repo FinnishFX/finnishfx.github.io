@@ -3,7 +3,7 @@
    <Packages>
       <Package id="1">
          <Name>Super Ambro Pack</Name>
-         <Price>3500</Price>
+         <Price>0</Price>
          <Quantity>1</Quantity>
          <MaxPurchase>1</MaxPurchase>
          <Weight>2</Weight>
