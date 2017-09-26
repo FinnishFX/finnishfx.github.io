@@ -7,9 +7,9 @@
          <Quantity>1</Quantity>
          <MaxPurchase>1</MaxPurchase>
          <Weight>2</Weight>
-         <BgURL>https://finnishfx.github.io/tfr/1.2/UpdateTeaser.png</BgURL>
+         <BgURL>https://finnishfx.github.io/tfr/1.2-1/FreeEggPack.png</BgURL>
          <EndDate>4090521600</EndDate>
-         <Contents>0x901e,0x901f,0x9020,0x9021,0x9022,0x9023</Contents>
+         <Contents>0x901e,0x901f,0x9020,0x9021,0x9022,0x9023,0x2967</Contents>
       </Package>
    </Packages>
 </PackageResponse>
