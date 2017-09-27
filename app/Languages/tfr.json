@@ -2515,7 +2515,7 @@
     [ "objects.Gravestone", "Gravestone", "en" ],
     [ "permapets.ItAPOSs_a_little_Leprechaun._Happy_Saint_PatrickAPOSs_D", "It's a little Leprechaun. Happy Saint Patrick's Day!!!", "en" ],
     [ "pets.War_Elephant_Skin", "War Elephant", "en" ],
-    [ "server.already_nexus", "You are already in the nexus", "en" ],
+    [ "server.already_nexus", "You are already in the nexus.", "en" ],
     [ "AccountLoadErrorDialog.message", "Failed to retrieve valid Kabam request! Click to reload.", "en" ],
     [ "tutorial_objects.South_Tutorial_Gun", "South Tutorial Gun", "en" ],
     [ "equip.A_highly_effective_bow_fashioned_of_still-living_magical_sp", "A highly effective bow fashioned of still-living magical springwood.", "en" ],
