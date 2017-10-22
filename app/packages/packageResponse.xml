@@ -4,8 +4,8 @@
       <Package id="4">
          <Name>Free Ambrosia Pack</Name>
          <Price>0</Price>
-         <Quantity>3</Quantity>
-         <MaxPurchase>1</MaxPurchase>
+         <Quantity>1</Quantity>
+         <MaxPurchase>3</MaxPurchase>
          <Weight>2</Weight>
          <BgURL>https://finnishfx.github.io/tfr/1.3/FreeAmbrosiaPack.png</BgURL>
          <EndDate>4090521600</EndDate>
