@@ -8,6 +8,8 @@ This is a repository of Assemblee Game Client of TFR project which contains musi
 
 ## Credits for development:
 - FinnishFX (TFR Team);
+- Tance (TFR Team)
+- A (TFR Team)
 - Devwarlt (LoESoft).
 
 **Share with your friends:**
