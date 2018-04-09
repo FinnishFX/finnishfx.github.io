@@ -7,11 +7,13 @@ This is a repository of Assemblee Game Client of TFR project which contains musi
 - Flash URL: https://finnishfx.github.io/rotmg.swf?server=tfr
 
 ## Credits for development:
-- FinnishFX (TFR Team);
-- Tance (TFR Team)
+- FinnishFX (TFR Team)
 - A (TFR Team)
-- Devwarlt (LoESoft).
+- Zemagaia (TFR Team)
+- Dangergun (TFR & LoESoft)
+- Tance (TFR Team)
+- Devwarlt (LoESoft)
 
 **Share with your friends:**
 - **TFR Team**: https://discord.gg/heuxfeV
-- **LoESoft**: https://discord.gg/jHNTjun
+
